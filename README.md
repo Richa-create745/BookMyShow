@@ -34,9 +34,6 @@ This project is developed to demonstrate full-stack web development using Java, 
 The main objective of this project is to build a movie ticket booking platform while gaining practical experience in backend development, database connectivity, REST APIs, and frontend-backend integration.
 
 ## 🚀 Future Enhancements
-
-- User registration and login
-- Movie search and filtering
 - Online ticket booking
 - Booking history
 - Payment gateway integration
